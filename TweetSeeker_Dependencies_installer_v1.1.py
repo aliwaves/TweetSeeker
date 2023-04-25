@@ -27,7 +27,10 @@ packages = [
     'datetime',
     'os',
     'json',
-    'boto3']
+    'boto3',
+    're',
+    'Counter',
+    'pyqt5']
 
 # installation method
 def installPackagesIfNeeded():
